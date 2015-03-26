@@ -10,10 +10,6 @@
         <id name="token" type="string" />
         <id name="user_id" type="integer" />
         
-        <unique-constraints>
-        	<unique-constraint columns="sid,token,user_id" name="user_remember_me" />
-    	</unique-constraints>
-
     </mapped-superclass>
 
 </doctrine-mapping>
