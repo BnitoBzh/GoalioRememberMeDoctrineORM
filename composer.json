@@ -1,5 +1,5 @@
 {
-    "name": "goalio/goalio-rememberme-doctrine-orm",
+    "name": "bnitobzh/goalio-rememberme-doctrine-orm",
     "description": "Doctrine2 ORM storage adapter for GoalioRememberMe.",
     "type": "library",
     "keywords": [
