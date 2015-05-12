@@ -1,6 +1,6 @@
 {
     "name": "bnitobzh/goalio-rememberme-doctrine-orm",
-    "description": "Doctrine2 ORM storage adapter for GoalioRememberMe.",
+    "description": "[review] Doctrine2 ORM storage adapter for GoalioRememberMe.",
     "type": "library",
     "keywords": [
         "zf2"
@@ -11,6 +11,9 @@
             "name": "Philipp Dobrigkeit",
             "email": "p.dobrigkeit@goalio.de",
             "homepage": "http://www.goalio.de"
+        },
+        {
+            "name": "BnitoBzh",
         }
     ],
     "require": {
